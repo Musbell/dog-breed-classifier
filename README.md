@@ -1,6 +1,7 @@
-# Dog Breed Classifier in Pytorch
+# Dog Breed Classifier in Pytorch 
 
 Udacity Deep Learning nano degree project for classifying dog breeds.
+__________________________________________________________________________
 
 In this project, I wrote an algorithm for identifying dog breeds using CNN
 
